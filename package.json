@@ -1,0 +1,20 @@
+{
+  "name": "claeusdev",
+  "version": "1.0.0",
+  "description": "A collection of scrapers for job sites",
+  "main": "remote_ok.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jobs",
+    "junior-jobs",
+    "node"
+  ],
+  "author": "gwuah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
