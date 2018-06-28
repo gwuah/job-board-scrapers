@@ -2,3 +2,6 @@
 
 ### RemoteOk
 * `node remote_ok.js`
+
+### UnicornHunt
+* `node unicorn_hunt.js`
