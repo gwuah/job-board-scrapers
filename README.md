@@ -5,3 +5,6 @@
 
 ### UnicornHunt
 * `node unicorn_hunt.js`
+
+### WeWorkRemotely
+* `node we_work_remotely.js`
